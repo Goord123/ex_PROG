@@ -6,4 +6,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(ex_PROG
-        ex1.c)
+        "Ficha 1/ex1.c")
