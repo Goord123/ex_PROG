@@ -15,4 +15,7 @@ add_executable(ex_PROG
         "Ficha 2/ex6.c"
         "Ficha 2/ex8.c"
         "Ficha 3/ex3.c"
-        "Ficha 3/ex4.c")
+        "Ficha 3/ex4.c"
+        "Ficha 4/ex1.c"
+        "Ficha 6/ex1.c"
+)
