@@ -22,5 +22,10 @@ add_executable(ex_PROG
         "Ficha 7/ex2.c"
         "Ficha 8/ex1.c"
         "Ficha 8/ex1.c"
-        Exames_Resolvidos/2223_Normal_1.c
+        "Exames_Resolvidos/2223_Normal/1.c"
+        "Ficha 11/ex2.c"
+        "Ficha 11/ex3.c"
+        Exames_Resolvidos/2223_Normal/2.c
+        Exames_Resolvidos/2223_Normal/3.c
+        Exames_Resolvidos/2122_Normal/1.c
 )
